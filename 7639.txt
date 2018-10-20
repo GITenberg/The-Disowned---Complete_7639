@@ -11,6 +11,7 @@ Title: The Disowned, Complete
 Author: Edward Bulwer-Lytton
 
 Release Date: March 16, 2009 [EBook #7639]
+Last Updated: July 23, 2016
 
 Language: English
 
@@ -1387,7 +1388,7 @@ of patrician society. His father's habits and evident distresses
 deepened his disgust to his situation; for the habits were incurable and
 the distresses increasing; and nothing but a circumstance which Mordaunt
 did not then understand prevented the final sale of an estate already
-little better than a pompons incumbrance.
+little better than a pompous incumbrance.
 
 It was therefore with the half painful, half pleasurable sensation with
 which we avoid contemplating a ruin we cannot prevent that Mordaunt
@@ -2229,7 +2230,7 @@ in some profession, some city avocation--or--or trade?"
 The lady looked hard at the speaker, and then at the broker. With
 certain people to belong to no profession is to be of no respectability.
 
-"The most unexceptionable references will be given-and required,"
+"The most unexceptionable references will be given--and required,"
 resumed Mrs. Copperas.
 
 "Certainly," said Mr. Brown, "certainly, the gentleman is a relation of
@@ -2269,10 +2270,11 @@ CHAPTER X.
   And shaded the soft soul which loved to lie
   In the deep pathos of that volumed eye.--O'Neill; or, The Rebel.
 
-The love thus kindled between them was of no common or calculating
-nature: it was vigorous and delicious, and at times so suddenly intense
-as to appear to their young hearts for a moment or so with almost an
-awful character.--Inesilla.
+     The love thus kindled between them was of no common or
+     calculating nature: it was vigorous and delicious, and at
+     times so suddenly intense as to appear to their young hearts
+     for a moment or so with almost an awful character.--
+     Inesilla.
 
 The reader will figure to himself a small chamber, in a remote wing of
 a large and noble mansion. The walls were covered with sketches whose
@@ -2280,7 +2282,7 @@ extreme delicacy of outline and colouring betrayed the sex of the
 artist; a few shelves filled with books supported vases of flowers. A
 harp stood neglected at the farther end of the room, and just above
 hung the slender prison of one of those golden wanderers from the Canary
-Isles which hear to our colder land some of the gentlest music of their
+Isles which bear to our colder land some of the gentlest music of their
 skies and zephyrs. The window, reaching to the ground, was open,
 and looked, through the clusters of jessamine and honeysuckle which
 surrounded the low veranda, beyond upon thick and frequent copses of
@@ -2882,7 +2884,7 @@ well of it; and it is also quite right that I, who am going out of it,
 should console myself by trying to despise it. However, let me tell you,
 my young friend, that he whose opinion of mankind is not too elevated
 will always be the most benevolent, because the most indulgent, to
-those errors incidental to human imperfection to place our nature in
+those errors incidental to human imperfection: to place our nature in
 too flattering a view is only to court disappointment, and end in
 misanthropy. The man who sets out with expecting to find all his
 fellow-creatures heroes of virtue will conclude by condemning them as
@@ -3028,7 +3030,7 @@ of his narrow chamber; the canvas stretched a blank upon its frame; the
 works, maimed, crude, unfinished, of an inexperienced hand, lying idly
 around; and feels himself--himself, but one moment before the creator of
 a world of wonders, the master spirit of shapes glorious and majestical
-beyond the shapes of men-dashed down from his momentary height, and
+beyond the shapes of men--dashed down from his momentary height, and
 despoiled both of his sorcery and his throne.
 
 It was just in such a moment that Warner, starting up, saw Linden (who
